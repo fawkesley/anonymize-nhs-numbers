@@ -1,3 +1,5 @@
+NOTE: This is very old code, and not especially good or tested!
+
 This utility will process the files passed on the command line (or look in the
 current directory) and look for NHS numbers as defined below. It will use
 pseudonyms stored in pseudonyms.csv or generate random, valid NHS numbers and
